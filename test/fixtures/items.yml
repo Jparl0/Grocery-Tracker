@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  is_protein: false
+  is_veggie: false
+  is_fruit: false
+  is_dairy: false
+
+two:
+  name: MyString
+  is_protein: false
+  is_veggie: false
+  is_fruit: false
+  is_dairy: false
